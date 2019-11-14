@@ -38,4 +38,4 @@ This HTML template holds a [CCA 3.0 License](https://creativecommons.org/license
 
 Cheers,  
 Rob  
-[@robhope](https://twitter.com/robhope)
+[@robhope]
